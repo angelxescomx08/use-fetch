@@ -1,0 +1,28 @@
+{
+  "name": "use-fetch-request",
+  "version": "1.0.0",
+  "description": "Custom hook for fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelxescomx08/use-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "react",
+    "hook"
+  ],
+  "author": "Jose Angel Hdz Rda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelxescomx08/use-fetch/issues"
+  },
+  "homepage": "https://github.com/angelxescomx08/use-fetch#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
